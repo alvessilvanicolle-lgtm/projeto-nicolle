@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Rufina:wght@400;700&display=swap');
+
 body{
     background-color: rgb(29, 124, 29);
     color: rgb(21, 73, 5);
@@ -5,4 +7,6 @@ body{
 .cabecalho{
     background-color: rgb(236, 236, 236);
     text-align: center;
+    padding: 30px;
+    font-family: "Rufina", serif;
 }
