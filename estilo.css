@@ -27,3 +27,8 @@ main{
     margin: 0 auto;
     padding: 16px;
 }
+article{
+display: flex;
+background-color: darkolivegreen;
+
+}
