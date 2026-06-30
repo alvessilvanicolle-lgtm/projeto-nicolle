@@ -30,5 +30,6 @@ main{
 article{
 display: flex;
 background-color: darkolivegreen;
-
+align-items: center;
+padding: 24px;
 }
